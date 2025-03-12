@@ -1,0 +1,21 @@
+body {
+    background-image: url('confetti.gif');
+    background-repeat: once;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 200px; */
+    font-size: 50pt;
+}
+
+.center1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 200px; */
+    font-size: 30pt;
+    color: black;
+}
